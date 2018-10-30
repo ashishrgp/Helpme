@@ -10,8 +10,8 @@
     android:orientation="vertical"
     tools:context="com.helpme.ashishpc.helpmenew.HelpActivity">
     <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:text="Help Me!"
         android:id="@+id/helpBtn"
         android:layout_gravity="center"
